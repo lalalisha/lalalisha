@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Bioinformatics+Student+%F0%9F%A7%AC;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=500&lines=AI+Engineer+%26+Bioinformatics+Student+🧬;LLM+Dev+%26+Automation+Enthusiast+🤖;Full-Stack+Data+Science+Explorer+📊" alt="Typing SVG" />
 </p>
 
 # About Me:
 
-- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad.
-- 🤖 Deeply engaged in **Machine Learning, GenAI, and Data Science** pipeline development.
-- 🔬 Hands-on experience in **Genomics, Structural Bioinformatics, and Molecular Dynamics simulations**.
-- 💬 Ask me about: Data Analysis, Python, R, or Prompt Engineering.
+- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad[span_0](start_span)[span_0](end_span).
+- 🤖 **AI / ML Developer** building intelligent, data-driven applications and LLM pipelines[span_1](start_span)[span_1](end_span).
+- ⚙️ **Automation Enthusiast** experienced in creating workflows using n8n and REST APIs[span_2](start_span)[span_2](end_span).
+- 💻 **Full-Stack Explorer** blending backend APIs (FastAPI, PHP) with responsive frontends (React, Tailwind)[span_3](start_span)[span_3](end_span).
 
 ---
 
@@ -27,34 +27,48 @@
 
 ## 💻 Tech Stack & Tools:
 
-### 🛠️ Languages & Core Frameworks
+### 🛠️ Programming Languages & Web Dev
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🧠 AI, ML, & LLM Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🧬 Bioinformatics Tools & Databases
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NCBI](https://img.shields.io/badge/NCBI-0071BC?style=for-the-badge&logo=ncbi&logoColor=white)
-![UniProt](https://img.shields.io/badge/UniProt-003366?style=for-the-badge&logo=uniprot&logoColor=white)
+### ⚙️ Automation & Cloud/Databases
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 🧪 Featured Projects:
 
-### 📊 Gene Expression Prediction from TCGA RNA-seq Data
-- **Stack:** Python, Scikit-learn, PCA, Random Forest
-- Used a TCGA-style RNA-seq dataset (801 samples, 2000 genes across 5 cancer types) to predict expression levels of high-variance genes.
-- Applied PCA (100 components) for dimensionality reduction and trained a Random Forest Regressor using 5-fold cross-validation.
+### 🤖 Automated Research Summarizer Agent
+- **Stack:** Claude AI, n8n, Python, Google Sheets API[span_4](start_span)[span_4](end_span)
+- Engineered a serverless automation pipeline triggered via webhook URLs to ingest and parse research literature[span_5](start_span)[span_5](end_span).
+- Integrated LLM APIs to extract structured token summaries (methodologies, core metrics) and map them dynamically into data destinations, cutting analysis bottlenecks by 80%[span_6](start_span)[span_6](end_span).
 
-### 🔬 Protein Structure Prediction Using AlphaFold
-- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI
-- Retrieved the 1210-residue sequence for EGFR (UniProt ID: P00533) to perform full-length secondary structure predictions.
-- Analyzed high-confidence 3D models (pLDDT > 90) inside PyMOL to validate structure prediction pipelines.
+### 💬 Intelligent English Language AI Chatbot
+- **Stack:** Google AI Studio, React, REST APIs[span_7](start_span)[span_7](end_span)
+- Built a responsive full-stack chatbot utilizing web interfaces for live language evaluation[span_8](start_span)[span_8](end_span).
+- Implemented real-time dynamic context shifting to auto-scale response vocabulary difficulty relative to live user proficiency scores[span_9](start_span)[span_9](end_span).
+
+### 📊 High-Dimensional TCGA Cancer Expression Predictor
+- **Stack:** Python, Scikit-Learn, Pandas, NumPy[span_10](start_span)[span_10](end_span)
+- Developed a high-dimensional regression pipeline to predict expression profiles of target genes across 2,000+ distinct genetic vectors[span_11](start_span)[span_11](end_span).
+- Implemented variance-based feature filtering and Principal Component Analysis (PCA) for extreme dimensionality reduction, managing complex multicollinearity across hundreds of RNA-seq samples[span_12](start_span)[span_12](end_span).
+
+### 🔬 Macromolecular Architecture Prediction & Visualization
+- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI Databases[span_13](start_span)[span_13](end_span)
+- Constructed an end-to-end computational pipeline to map primary 1210-residue sequence strings into highly validated secondary structures and 3D geometric models[span_14](start_span)[span_14](end_span).
+- Computed structural models with high confidence values (pLDDT > 90) and performed multi-variant overlay validation against experimental crystals[span_15](start_span)[span_15](end_span).
 
 ---
 
