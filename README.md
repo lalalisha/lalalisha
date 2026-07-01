@@ -34,7 +34,7 @@ Currently balancing bioinformatics studies with building AI pipelines and messin
 ### Deep Learning, NLP & LLMs
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&where=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -56,7 +56,13 @@ Currently balancing bioinformatics studies with building AI pipelines and messin
 ## GitHub Analytics:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalalisha&layout=compact&theme=dark" alt="Top Langs" />
+  <!-- Option 1: GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalalisha&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <!-- Option 2: GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=lalalisha&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ### Currently Jamming To:
