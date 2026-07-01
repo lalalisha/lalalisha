@@ -47,30 +47,6 @@
 
 ---
 
-## 🧪 Featured Projects:
-
-### 🤖 Automated Research Summarizer Agent
-- **Stack:** Claude AI, n8n, Python, Google Sheets API
-- Engineered a serverless automation pipeline triggered via webhook URLs to ingest and parse research literature.
-- Integrated LLM APIs to extract structured token summaries (methodologies, core metrics) and map them dynamically into data destinations, cutting analysis bottlenecks by 80%.
-
-### 💬 Intelligent English Language AI Chatbot
-- **Stack:** Google AI Studio, React, REST APIs
-- Built a responsive full-stack chatbot utilizing web interfaces for live language evaluation.
-- Implemented real-time dynamic context shifting to auto-scale response vocabulary difficulty relative to live user proficiency scores.
-
-### 📊 High-Dimensional TCGA Cancer Expression Predictor
-- **Stack:** Python, Scikit-Learn, Pandas, NumPy
-- Developed a high-dimensional regression pipeline to predict expression profiles of target genes across 2,000+ distinct genetic vectors.
-- Implemented variance-based feature filtering and Principal Component Analysis (PCA) for extreme dimensionality reduction, managing complex multicollinearity across hundreds of RNA-seq samples.
-
-### 🔬 Macromolecular Architecture Prediction & Visualization
-- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI Databases
-- Constructed an end-to-end computational pipeline to map primary 1210-residue sequence strings into highly validated secondary structures and 3D geometric models.
-- Computed structural models with high confidence values (pLDDT > 90) and performed multi-variant overlay validation against experimental crystals.
-
----
-
 ## 📊 GitHub Analytics:
 
 <p align="left">
