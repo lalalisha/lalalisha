@@ -1,14 +1,13 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=500&lines=AI+Engineer+%26+Bioinformatics+Student+🧬;LLM+Dev+%26+Automation+Enthusiast+🤖;Full-Stack+Data+Science+Explorer+📊" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=500&lines=AI+Engineer+%26+Bioinformatics+Student+🧬;LLM+Dev+%26+Automation+Enthusiast+🤖;Full-Stack+Data+Science+Explorer+📊" alt="Typing SVG" /></a>
 </p>
 
 # About Me:
 
-- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad[span_0](start_span)[span_0](end_span).
-- 🤖 **AI / ML Developer** building intelligent, data-driven applications and LLM pipelines[span_1](start_span)[span_1](end_span).
-- ⚙️ **Automation Enthusiast** experienced in creating workflows using n8n and REST APIs[span_2](start_span)[span_2](end_span).
-- 💻 **Full-Stack Explorer** blending backend APIs (FastAPI, PHP) with responsive frontends (React, Tailwind)[span_3](start_span)[span_3](end_span).
+- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad.
+- 🤖 **AI / ML Developer** building intelligent, data-driven applications and LLM pipelines.
+- ⚙️ **Automation Enthusiast** experienced in creating workflows using n8n and REST APIs.
+- 💻 **Full-Stack Explorer** blending backend APIs (FastAPI, PHP) with responsive frontends (React, Tailwind).
 
 ---
 
@@ -51,24 +50,24 @@
 ## 🧪 Featured Projects:
 
 ### 🤖 Automated Research Summarizer Agent
-- **Stack:** Claude AI, n8n, Python, Google Sheets API[span_4](start_span)[span_4](end_span)
-- Engineered a serverless automation pipeline triggered via webhook URLs to ingest and parse research literature[span_5](start_span)[span_5](end_span).
-- Integrated LLM APIs to extract structured token summaries (methodologies, core metrics) and map them dynamically into data destinations, cutting analysis bottlenecks by 80%[span_6](start_span)[span_6](end_span).
+- **Stack:** Claude AI, n8n, Python, Google Sheets API
+- Engineered a serverless automation pipeline triggered via webhook URLs to ingest and parse research literature.
+- Integrated LLM APIs to extract structured token summaries (methodologies, core metrics) and map them dynamically into data destinations, cutting analysis bottlenecks by 80%.
 
 ### 💬 Intelligent English Language AI Chatbot
-- **Stack:** Google AI Studio, React, REST APIs[span_7](start_span)[span_7](end_span)
-- Built a responsive full-stack chatbot utilizing web interfaces for live language evaluation[span_8](start_span)[span_8](end_span).
-- Implemented real-time dynamic context shifting to auto-scale response vocabulary difficulty relative to live user proficiency scores[span_9](start_span)[span_9](end_span).
+- **Stack:** Google AI Studio, React, REST APIs
+- Built a responsive full-stack chatbot utilizing web interfaces for live language evaluation.
+- Implemented real-time dynamic context shifting to auto-scale response vocabulary difficulty relative to live user proficiency scores.
 
 ### 📊 High-Dimensional TCGA Cancer Expression Predictor
-- **Stack:** Python, Scikit-Learn, Pandas, NumPy[span_10](start_span)[span_10](end_span)
-- Developed a high-dimensional regression pipeline to predict expression profiles of target genes across 2,000+ distinct genetic vectors[span_11](start_span)[span_11](end_span).
-- Implemented variance-based feature filtering and Principal Component Analysis (PCA) for extreme dimensionality reduction, managing complex multicollinearity across hundreds of RNA-seq samples[span_12](start_span)[span_12](end_span).
+- **Stack:** Python, Scikit-Learn, Pandas, NumPy
+- Developed a high-dimensional regression pipeline to predict expression profiles of target genes across 2,000+ distinct genetic vectors.
+- Implemented variance-based feature filtering and Principal Component Analysis (PCA) for extreme dimensionality reduction, managing complex multicollinearity across hundreds of RNA-seq samples.
 
 ### 🔬 Macromolecular Architecture Prediction & Visualization
-- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI Databases[span_13](start_span)[span_13](end_span)
-- Constructed an end-to-end computational pipeline to map primary 1210-residue sequence strings into highly validated secondary structures and 3D geometric models[span_14](start_span)[span_14](end_span).
-- Computed structural models with high confidence values (pLDDT > 90) and performed multi-variant overlay validation against experimental crystals[span_15](start_span)[span_15](end_span).
+- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI Databases
+- Constructed an end-to-end computational pipeline to map primary 1210-residue sequence strings into highly validated secondary structures and 3D geometric models.
+- Computed structural models with high confidence values (pLDDT > 90) and performed multi-variant overlay validation against experimental crystals.
 
 ---
 
