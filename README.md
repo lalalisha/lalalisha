@@ -5,10 +5,10 @@
 
 # About Me:
 
-- 🧬 I'm a Bioinformatics student diving deep into computational biology.
-- 🤖 Passionate about Machine Learning, GenAI, and Reinforcement Learning from Human Feedback (RLHF).
-- 📊 Experienced in hyperparameter optimization and data analytics.
-- 💬 Ask me about: Data Science, Python, or Prompt Engineering.
+- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad.
+- 🤖 Deeply engaged in **Machine Learning, GenAI, and Data Science** pipeline development.
+- 🔬 Hands-on experience in **Genomics, Structural Bioinformatics, and Molecular Dynamics simulations**.
+- 💬 Ask me about: Data Analysis, Python, R, or Prompt Engineering.
 
 ---
 
@@ -20,24 +20,41 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalalisha.00@gmail.com)
 
 ### 🚀 AI & Data Science Platforms:
-*(Set up your profiles and swap in your usernames below!)*
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR_GITHUB_USERNAME)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/YOUR_GITHUB_USERNAME)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack & Tools:
 
-### 🛠️ Languages & Core Libraries
+### 🛠️ Languages & Core Frameworks
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🧬 Bioinformatics Tools & Databases
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NCBI](https://img.shields.io/badge/NCBI-0071BC?style=for-the-badge&logo=ncbi&logoColor=white)
+![UniProt](https://img.shields.io/badge/UniProt-003366?style=for-the-badge&logo=uniprot&logoColor=white)
+
+---
+
+## 🧪 Featured Projects:
+
+### 📊 Gene Expression Prediction from TCGA RNA-seq Data
+- **Stack:** Python, Scikit-learn, PCA, Random Forest
+- Used a TCGA-style RNA-seq dataset (801 samples, 2000 genes across 5 cancer types) to predict expression levels of high-variance genes.
+- Applied PCA (100 components) for dimensionality reduction and trained a Random Forest Regressor using 5-fold cross-validation.
+
+### 🔬 Protein Structure Prediction Using AlphaFold
+- **Stack:** AlphaFold2, PSIPRED, PyMOL, EMBL-EBI
+- Retrieved the 1210-residue sequence for EGFR (UniProt ID: P00533) to perform full-length secondary structure predictions.
+- Analyzed high-confidence 3D models (pLDDT > 90) inside PyMOL to validate structure prediction pipelines.
 
 ---
 
@@ -48,7 +65,6 @@
 </p>
 
 ### 🎵 Currently Jamming To:
-<!-- This updates automatically when you listen to music on Spotify while connected to Discord -->
 <p align="left">
   <img src="https://novatorem-discord-card.vercel.app/api/spotify?id=alishafatima.&theme=dark" alt="Spotify Status" />
 </p>
