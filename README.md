@@ -1,12 +1,3 @@
-## Hi there 👋
-its alisha 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on doing projects 
-- 🌱 I’m currently exploring Ai
-- 😄  she/her
-- ⚡ Fun fact: i like to read
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=435&lines=Bioinformatics+Student+%F0%9F%A7%AC;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A" alt="Typing SVG" />
