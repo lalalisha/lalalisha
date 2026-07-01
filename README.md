@@ -4,10 +4,7 @@
 
 # About Me:
 
-- 🧬 **Bioinformatics student** at the University of Agriculture, Faisalabad.
-- 🤖 **AI / ML Developer** building intelligent, data-driven applications and LLM pipelines.
-- ⚙️ **Automation Enthusiast** experienced in creating workflows using n8n and REST APIs.
-- 💻 **Full-Stack Explorer** blending backend APIs (FastAPI, PHP) with responsive frontends (React, Tailwind).
+Currently balancing bioinformatics studies with building AI pipelines and messing around with full-stack development. I spend most of my time setting up automated workflows, training models, and connecting backend APIs to clean frontends. Just someone who loves experimenting with code, breaking things, and building cool, data-driven projects.
 
 ---
 
