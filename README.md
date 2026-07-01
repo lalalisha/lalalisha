@@ -1,5 +1,6 @@
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=500&lines=AI+Engineer+%26+Bioinformatics+Student+🧬;LLM+Dev+%26+Automation+Enthusiast+🤖;Full-Stack+Data+Science+Explorer+📊" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&width=500&lines=AI+Engineer+%26+Bioinformatics+Student+🧬;LLM+Dev+%26+Automation+Enthusiast+🤖;Full-Stack+Data+Science+Explorer+📊" alt="Typing SVG" />
 </p>
 
 # About Me:
@@ -19,8 +20,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalalisha.00@gmail.com)
 
 ### 🚀 AI & Data Science Platforms:
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR_GITHUB_USERNAME)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/YOUR_GITHUB_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Alisha-ai)
 
 ---
 
@@ -50,7 +51,7 @@
 ## 📊 GitHub Analytics:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalalisha&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ### 🎵 Currently Jamming To:
@@ -61,5 +62,5 @@
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&color=purple&style=flat-square" alt="Views Counter" />
+  <img src="https://komarev.com/ghvc/?username=lalalisha&color=purple&style=flat-square" alt="Views Counter" />
 </p>
