@@ -58,8 +58,3 @@ Currently balancing bioinformatics studies with building AI pipelines and messin
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalalisha&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
